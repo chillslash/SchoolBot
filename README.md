@@ -2,10 +2,12 @@
 
 Coded this in Python in 2017 during school as an interesting way to log homework
 
+
+
 Commands:
 [(monday-friday)] - Shows timetable
-[add (Work)| (Due date)] - Adds homework to hw list
 
+[add (Work)| (Due date)] - Adds homework to hw list\n
 [del (Number of homework)] - Deletes homework
 
 [del all] - Delete all homework
