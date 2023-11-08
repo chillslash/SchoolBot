@@ -8,7 +8,6 @@ Commands:
 [(monday-friday)] - Shows timetable
 
 [add (Work)| (Due date)] - Adds homework to hw list
-
 [del (Number of homework)] - Deletes homework
 
 [del all] - Delete all homework
